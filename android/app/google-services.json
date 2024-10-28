@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "522823910434",
+    "firebase_url": "https://khachsan-9cbe6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "khachsan-9cbe6",
+    "storage_bucket": "khachsan-9cbe6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522823910434:android:99eec52afe868c021b367b",
+        "android_client_info": {
+          "package_name": "com.example.hotel_appv1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbWnKScqeslprEaAd9q2HqczNpjGt0yOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
